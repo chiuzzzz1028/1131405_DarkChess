@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dark Chess", "Dark Chess\Dark Chess.csproj", "{E55F4363-E1D1-4AA5-A01A-BDCA01593970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55F4363-E1D1-4AA5-A01A-BDCA01593970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55F4363-E1D1-4AA5-A01A-BDCA01593970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55F4363-E1D1-4AA5-A01A-BDCA01593970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55F4363-E1D1-4AA5-A01A-BDCA01593970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E382CC2F-0125-499B-8FED-A5F7971ED44A}
+	EndGlobalSection
+EndGlobal
