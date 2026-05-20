@@ -64,6 +64,20 @@
    - 按下「結束遊戲」時，系統會跳出確認視窗，避免玩家誤觸
    - 結束目前遊戲後，棋盤會清空，按鈕狀態會回到遊戲尚未開始的狀態
     
+<table>
+  <tr>
+    <td align="center">
+      <img width="360" alt="結束遊戲確認畫面" src="https://github.com/user-attachments/assets/0bc36143-2725-4730-9a25-cad0be10fa97" />
+      <br>
+      <sub>結束遊戲確認視窗</sub>
+    </td>
+    <td align="center">
+      <img width="360" alt="結束遊戲後畫面" src="https://github.com/user-attachments/assets/3468b965-95c0-4bf2-af3f-bc96458e1680" />
+      <br>
+      <sub>結束遊戲後回到初始狀態</sub>
+    </td>
+  </tr>
+</table>
 
 
 8. **遊戲規則說明**
